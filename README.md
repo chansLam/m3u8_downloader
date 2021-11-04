@@ -2,6 +2,8 @@
 
 A tool to download and merge m3u8 streaming media files
 
+[简体中文](https://github.com/chansLam/m3u8_downloader/blob/master/README-CN.md)
+
 
 ### screenshot：
 - Windows
