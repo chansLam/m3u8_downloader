@@ -1,16 +1,16 @@
-# m3u8
+# m3u8 downloader
 
-A new Flutter project.
+A tool to download and merge m3u8 streaming media files
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+### screenshot：
+- Windows
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://user-images.githubusercontent.com/39075928/140281960-61a4b4cc-9659-44b9-a186-4fa3223a5376.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Macos
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/39075928/140282144-f6474168-9aff-4a7a-9e89-d1b239551403.png)
+
+![image](https://user-images.githubusercontent.com/39075928/140282578-ebd1bbd4-71b8-4b95-af1d-4a2c1999b7b4.png)
+
